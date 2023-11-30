@@ -1,0 +1,783 @@
+#sticky-top {
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 100;
+  box-shadow: 2px 2px 1px 1px rgb(221, 225, 228);
+}
+
+#logo-design {
+  width:auto;
+  height: 39.5555px;
+}
+
+
+
+#tickets {
+  color: rgb(41, 64, 147);
+  font-size: 18px;
+}
+
+#tickets:hover {
+  color: white;
+  font-size: 18px;
+  text-align: center;
+}
+
+#get-1 {
+  color: black;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 15px;
+  border-radius: 20px;
+}
+
+#gett {
+  color: white;
+  background-color: rgb(34, 64, 147);
+  font-size: 18px;
+  font-weight: 600;
+  padding: 15px;
+  border-radius: 20px;
+}
+
+#get-3 {
+  color: black;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 15px;
+  border-radius: 20px;
+}
+
+.nav-texts {
+  color: rgb(34, 64, 147);
+  border-bottom: none;
+}
+
+.nav-texts:hover {
+  color: rgb(34, 64, 147);
+  text-decoration: underline 1px solid rgb(253, 185, 21);
+}
+
+#venue-image {
+  max-width: 100%;
+}
+
+#gra-dient {
+  background-image: linear-gradient(
+    90deg,
+    rgb(196, 142, 12),
+    rgb(85, 118, 207),
+    rgb(85, 118, 207),
+    rgb(85, 118, 207),
+    rgb(85, 118, 207)
+  );
+}
+
+#venue {
+  text-align: center;
+}
+
+#venue-1 {
+  color: white;
+  font-size: 55px;
+  line-height: 50px;
+  vertical-align: baseline;
+  font-weight: 700;
+  font-stretch: 100%;
+}
+
+#venue-2 {
+  color: white;
+  font-size: 30px;
+  line-height: 32px;
+  vertical-align: baseline;
+  font-weight: 700;
+  font-stretch: 100%;
+}
+
+#welcome {
+  color: rgb(34, 64, 147);
+  font-size: 18px;
+  line-height: 20px;
+  vertical-align: baseline;
+  font-weight: 500;
+  font-stretch: 100%;
+}
+
+#maiden {
+  color: rgb(34, 64, 147);
+  font-size: 24px;
+  line-height: 36px;
+  vertical-align: baseline;
+  letter-spacing: normal;
+  font-weight: 500;
+  text-align: start;
+  /* border: 2px solid red; */
+}
+
+#ven-image {
+  color: rgb(34, 64, 147);
+  font-size: 80px;
+  font-family: "BlinkMacSystemFont", Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    "Open Sans", "Helvetica Neue", sans-serif;
+  line-height: 72px;
+  vertical-align: baseline;
+  letter-spacing: normal;
+  font-weight: 700;
+  text-align: start;
+  text-transform: uppercase;
+  border-bottom: 3px solid rgb(255, 193, 7);
+}
+
+#speakers {
+  color: rgb(34, 64, 147);
+  font-size: 75px;
+  font-family: "BlinkMacSystemFont", Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    "Open Sans", "Helvetica Neue", sans-serif;
+  line-height: 72px;
+  vertical-align: baseline;
+  letter-spacing: normal;
+  font-weight: bolder;
+  text-align: start;
+  text-transform: uppercase;
+}
+
+#speak-bottom {
+  border-bottom: 3px solid rgb(255, 193, 7);
+}
+
+#tick-et {
+  color: rgb(34, 64, 147);
+  font-size: 80px;
+  font-family: "BlinkMacSystemFont", Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    "Open Sans", "Helvetica Neue", sans-serif;
+  line-height: 72px;
+  vertical-align: baseline;
+  letter-spacing: normal;
+  font-weight: 700;
+  text-align: start;
+  text-transform: uppercase;
+  border-bottom: 3px solid rgb(255, 193, 7);
+}
+
+#view-all {
+  color: rgb(73, 46, 133);
+  font-size: 14px;
+  line-height: 16px;
+  vertical-align: baseline;
+  font-weight: 500;
+  text-align: start;
+  font-stretch: 100%;
+  font-feature-settings: "kern";
+  text-transform: uppercase;
+}
+
+#buy {
+  color: rgb(34, 64, 147);
+  text-decoration: none;
+  text-align: center;
+}
+#buy-2 {
+  text-decoration: none;
+}
+
+#sponsor {
+  border: 1.5px solid rgb(34, 64, 147);
+}
+
+a {
+  text-decoration: none;
+}
+
+#ibadan-image {
+  width: 100%;
+}
+
+.star {
+  width: 70px;
+  border: 1px solid rgb(0, 168, 119);
+  padding: 7px;
+  border-radius: 100%;
+  animation: star 3.5s linear infinite;
+  animation-timing-function: ;
+  animation: name duration timing-function delay iteration-count direction
+    fill-mode;
+}
+
+#flex-texts {
+  color: rgb(34, 64, 147);
+  font-size: 30px;
+  line-height: 36px;
+  vertical-align: baseline;
+  font-weight: 600;
+  text-align: center;
+}
+
+#positions {
+  color: rgb(34, 64, 147);
+  font-size: 16px;
+  line-height: 27px;
+  vertical-align: baseline;
+  font-weight: 500;
+  font-feature-settings: "kern";
+  text-align: center;
+}
+
+#container-height {
+  height: 500px;
+}
+
+#new-image {
+  width: auto;
+  height: 300px;
+  transform: translate(0, 50px);
+}
+
+#secure {
+  font-size: 16px;
+  line-height: 30px;
+  font-weight: 400;
+  text-align: start;
+}
+
+#every {
+  color: rgb(34, 64, 147);
+  font-size: 35px;
+  line-height: 52.5px;
+  font-weight: 700;
+  text-align: center;
+}
+
+#prices {
+  background-color: white;
+}
+
+#prices:hover {
+  color: white;
+  background-color: green;
+  transition: 2s;
+}
+
+#price {
+  /* height: 700px; */
+  background-color: rgb(254, 193, 53);
+  color: rgb(34, 64, 147);
+}
+
+#pri-ces {
+  /* height: 600px; */
+  background-color: white;
+}
+
+#pri-ces:hover {
+  background-color: blue;
+  transition: 2s;
+}
+
+#mark-zuck {
+  /* border: 2px solid red; */
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: 600;
+  text-align: start;
+}
+
+#regular {
+  font-size: 25px;
+  line-height: 42.5px;
+  font-weight: 800;
+  text-align: start;
+}
+
+#vip {
+  font-size: 35px;
+  line-height: 50px;
+  font-weight: 800;
+  text-align: start;
+}
+
+#list-texts {
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 700;
+  text-align: justify;
+  /* border: 2px solid green; */
+}
+
+#text-alt {
+  padding-right: 85px;
+  word-spacing: 0.55px;
+}
+
+#text-altt {
+  word-spacing: 2px;
+}
+
+#sponsors {
+  color: rgb(34, 64, 147);
+  font-size: 40px;
+  font-family: "BlinkMacSystemFont", Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    "Open Sans", "Helvetica Neue", sans-serif;
+  line-height: 72px;
+  vertical-align: baseline;
+  letter-spacing: normal;
+  font-weight: 700;
+  text-align: left;
+  text-transform: capitalize;
+}
+
+#logos {
+  padding: 20px 0;
+  /* border: 2px solid red; */
+  overflow: hidden;
+  white-space: nowrap;
+  position: relative;
+}
+
+#logos-slide {
+  display: inline-block;
+  /* border: 2px solid green; */
+  animation: slide 30s linear infinite;
+}
+
+#logos-slide img {
+  /* border: 2px solid violet; */
+  margin: 0 15px;
+}
+
+/* #logos:hover #logos-slide {
+  animation-play-state: paused;
+} */
+
+/* #logos::before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 250px;
+  height: 100%;
+  background:  linear-gradient(to left, rgba(255, 200, 255, 0), rgb(238, 228, 228));
+  content: "";
+  z-index: 2;
+}
+
+#logos::after {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 250px;
+  height: 100%;
+  background:  linear-gradient(to right, rgba(255, 200, 255, 0), rgb(238, 228, 228));
+  content: "";
+  z-index: 2;
+} */
+
+#girl-watch {
+  background: linear-gradient(
+    45deg,
+    rgb(19, 35, 81),
+    rgb(19, 35, 81),
+    rgb(19, 35, 81),
+    rgb(19, 35, 81),
+    rgb(19, 35, 81),
+    rgb(19, 35, 81),
+    rgb(19, 35, 81),
+    rgb(19, 35, 81),
+    rgb(210, 91, 99),
+    rgb(245, 101, 102)
+  );
+}
+
+#galore {
+  color: white;
+  font-size: 40px;
+  line-height: 60px;
+  font-weight: 800;
+  text-align: start;
+}
+
+#obtain {
+  color: white;
+  font-size: 16px;
+  line-height: 27px;
+  font-weight: 500;
+  text-align: left;
+  padding-right: 60px;
+}
+
+#lap-top {
+  transform: translateY(129px);
+}
+
+#watchs {
+  transform: translateY(-120px);
+}
+
+#footers {
+  background-color: rgb(19,35,81);
+}
+
+#follow h2{
+  color: white;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 700;
+  text-align: start;
+}
+
+#follow a {
+  /* border: 2px solid firebrick; */
+  padding:5px 0 0 15px;
+}
+
+#follow img {
+  width: 24px;
+}
+
+#bottom-foot {
+  color: white;
+  text-align: end;
+  /* border: 2px solid red; */
+  padding: 0 70px 0 0;
+}
+
+
+#bottom-foot a{
+  color: white;
+  /* border: 2px solid white; */
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 500;
+  padding: 0 0 0 50px;
+  text-transform: capitalize;
+}
+
+
+
+/* =========================== */
+/* animation */
+@keyframes star {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes slide {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+/* responsiveness */
+@media only screen and (max-width: 765px)  {
+  #maiden {
+    font-size: 16px;
+  }
+
+  #logo-design {
+    width: 200px;
+    height: 50px;
+    padding: 10px 0;
+  }
+
+  #navbarNav li a {
+     font-size: 12px;
+    font-weight: 500;
+    /* border: 2px solid red; */
+  }
+
+
+  .star {
+    width: 70px;
+  }
+
+  #venue-1 {
+    font-size: 33px;
+    font-weight: bold;
+  }
+
+  #venue-2 {
+    font-size: 15px;
+  }
+
+  #ven-image {
+    font-size: 30px;
+  }
+
+  #venue-image {
+    width: 100%;
+    height: 250px;
+  }
+
+  .draga-2 {
+    transform: translate(85%, -140%);
+  }
+
+  .draga-3 {
+    margin-left: 40%;
+  }
+
+  .draga-4 {
+    transform: translate(10%, 120%);
+  }
+
+  .draga-5 {
+    transform: translate(100%, 0);
+  }
+
+  #speakers {
+    font-size: 25px;
+  }
+
+  #flex-texts {
+    font-size: 15px;
+    line-height: 19px;
+    vertical-align: top;
+  }
+
+  #positions {
+    font-size: 11px;
+    line-height: 17px;
+    vertical-align: top;
+  }
+
+  #tick-et {
+    font-size: 30px;
+  }
+
+  #container-height {
+    height: 650px;
+  }
+
+  #new-image {
+    width: 100%;
+    height: 375px;
+    transform: translate(0, 5px);
+  }
+
+  #secure {
+    font-size: 18px;
+    line-height: 38px;
+    word-spacing: 2px;
+  }
+
+  #every {
+    font-size: 15px;
+    font-weight: 700;
+    /* border: red solid 2px; */
+  }
+
+  #text-alt {
+    padding-right: 0px;
+    word-spacing: 0.55px;
+  }
+
+  #sekiapp {
+    width: 60px;
+  }
+
+  #logos-slide img {
+    /* border: 2px solid violet; */
+    margin: 0 0px;
+  }
+
+  #watchs {
+    transform: translateY(-73px);
+  }
+
+  #lap-top {
+    transform: translateY(50px);
+  }
+
+  #galore {
+    font-size: 29px;
+    line-height: 40px;
+  }
+
+  #obtain {
+    color: white;
+    font-size: 16px;
+    line-height: 27px;
+    padding-right: 30px;
+  }
+
+  #sponsors {
+    font-size: 38px;
+  }
+
+  #tribune-slide img {
+    /* border: 2px solid violet; */
+    margin: 0px;
+    padding: 45px;
+    width: 200px;
+  }
+
+  #women-slide img {
+    /* border: 2px solid violet; */
+    /* margin: 0 10px;
+    padding: 0; */
+   width: 100px;
+  }
+ 
+  #follow {
+    /* border: 2px solid gold; */
+    transform: translateX(70%);
+  }
+
+  #follow a {
+    /* border: 2px solid firebrick; */
+    padding:5px 0 0 10px;
+    
+  }
+
+  #follow h2{
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 700;
+  }
+
+
+  #bottom-foot {
+    color: white;
+    text-align: center;
+    /* border: 2px solid red; */
+    padding: 0;
+    margin: 0;
+  }
+
+  #bottom-foot a{
+    padding: 0 10px;  
+    font-size: 20px;
+  }
+}
+
+/* ipad */
+
+@media only screen and (width: 768px), (width: 820px), (width: 1024px){
+  #maiden {
+    font-size: 20px;
+    line-height: 26px;
+  }
+
+  .star {
+    width: 50px;
+  }
+
+  #welcome {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  #ven-image {
+    font-size: 50px;
+  }
+
+  #venue-image {
+    width: 100%;
+    height: auto;
+  }
+
+  #logo-design {
+    width: auto;
+    height: 29px;
+  }
+
+  #speakers {
+    font-size: 39px;
+  }
+
+  #tick-et {
+    font-size: 40px;
+  }
+
+  #new-image {
+    width: 35%;
+    height: 300px;
+    transform: translate(0, 15px);
+  }
+
+  #every {
+    font-size: 24px;
+    font-weight: 700;
+    padding: 0 150px;
+    /* border: red solid 2px; */
+  }
+
+  #text-alt {
+    padding-right: 0px;
+    word-spacing: 0.55px;
+  }
+
+  #gett {
+    font-size: 14px;
+    font-weight: 500;
+    padding: 15px;
+    border-radius: 20px;
+  }
+
+  #get-3 {
+    font-size: 15px;
+    font-weight: 600;
+    padding: 15px;
+    border-radius: 20px;
+  }
+
+  #logos-slide img {
+    /* border: 2px solid violet; */
+    margin: 0 10px;
+  }
+
+  #lap-top {
+    transform: translateY(0);
+  }
+
+  #obtain {
+    padding-right: 0px;
+  }
+
+  #galore {
+    color: white;
+    font-size: 30px;
+  }
+
+  #follow {
+    /* border: 2px solid navajowhite; */
+    transform: translateX(65%);
+      }
+  #follow a {
+        /* border: 2px solid firebrick; */
+        padding:5px 0 0 30px;
+      }
+      
+  #follow img {
+        width: 29px;
+      }
+
+  #bottom-foot {
+    color: white;
+    text-align: center;
+    /* border: 2px solid red; */
+    padding: 0px;
+  }
+
+  
+  #bottom-foot a{
+    padding: 0 20px; 
+    font-size: 25px; 
+    line-height: 40px;
+  }
+
+  #logo-design {
+    width: auto;
+    height: 35px;
+  }
+
+
+ }
